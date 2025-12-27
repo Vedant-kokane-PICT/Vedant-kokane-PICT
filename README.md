@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vedant Kokane</h1>
 <h3 align="center">
 Just a duplicate profile for college work!<br>
-Created only to upload code files while in the lab — it doesn't include any projects or real useful stuff.<br>
+Created only to upload code files while in the lab it doesn't include any projects or real useful stuff.<br>
 Come on, I can't use SSH keys on college PCs, so no CLI pushes!
 </h3>
 
