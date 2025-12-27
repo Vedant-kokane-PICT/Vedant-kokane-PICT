@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Vedant Kokane</h1>
-<h3 align="center">I am a highly motivated and passionate pre-final year student at Pune Institute of Computer Technology (PICT), Pune. Over the course of my three-year journey in engineering, I've had the privilege of exploring various domains within the vast realm of technology. From iOS app development to diving into the complexities of machine learning and even venturing into the world of web development, my insatiable curiosity has led the way.</h3>
+<h3 align="center">
+Just a duplicate profile for college work!<br>
+Created only to upload code files while in the lab — it doesn't include any projects or real useful stuff.<br>
+Come on, I can't use SSH keys on college PCs, so no CLI pushes!
+</h3>
+
+
 <div> <a href="https://twitter.com/https://twitter.com/vedantkokane" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/vedantkokane/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/Vedant-kokane-PICT" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
